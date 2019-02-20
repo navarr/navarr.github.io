@@ -1,8 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Test Post"
 published: false
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, This is a sample blog post.
 
-I hope you like it!
+Neat!
